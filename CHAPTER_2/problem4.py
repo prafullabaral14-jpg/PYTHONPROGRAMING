@@ -1,0 +1,4 @@
+# USE COMPARISON OPERATORS TO FIND OUT WHETHER 'a'  GIVEN VARIABLE IS GREATER THAN 'b' OR NOT !!
+a = int(input("ENTER NUMBER 1: "))
+b = int(input("ENTER NUMBER 2: "))
+print("IS 'a' GREATER THAN 'b' ? : ", a>b)
